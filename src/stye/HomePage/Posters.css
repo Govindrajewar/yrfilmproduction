@@ -10,19 +10,20 @@
   width: 100%;
   height: 100%;
   object-fit: contain;
-  animation: alternateImages 5s infinite;
+  animation: alternateImages 6s infinite;
 }
 
 .second-image {
-  animation-delay: 5s;
+  animation-delay: 3s;
 }
 
 @keyframes alternateImages {
   0%,
-  100% {
+  50% {
     opacity: 1;
   }
-  50% {
+  50.01%,
+  100% {
     opacity: 0;
   }
 }
