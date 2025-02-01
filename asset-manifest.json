@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/yrfilmproduction/static/css/main.18f0c9d1.css",
+    "main.js": "/yrfilmproduction/static/js/main.0f79e4f4.js",
+    "static/js/488.6a6e0adc.chunk.js": "/yrfilmproduction/static/js/488.6a6e0adc.chunk.js",
+    "static/media/paisa_paisa.jpg": "/yrfilmproduction/static/media/paisa_paisa.6875d2bd3357917322f8.jpg",
+    "static/media/horpal.jpg": "/yrfilmproduction/static/media/horpal.da83e155ef60458adc73.jpg",
+    "static/media/aboutUs.jpeg": "/yrfilmproduction/static/media/aboutUs.aa53fd2dac1d740aa1e8.jpeg",
+    "static/media/sample1.jpg": "/yrfilmproduction/static/media/sample1.ccc60e5ddfe4da84ed19.jpg",
+    "static/media/yrfilmproduction.jpg": "/yrfilmproduction/static/media/yrfilmproduction.99abc99f79d89b82713f.jpg",
+    "static/media/animationDesigning.png": "/yrfilmproduction/static/media/animationDesigning.90d62a07a0583a687b0e.png",
+    "static/media/shortFilm.png": "/yrfilmproduction/static/media/shortFilm.dd98c4ff58c27d90fa3d.png",
+    "static/media/featureFilm.jpeg": "/yrfilmproduction/static/media/featureFilm.c70b7e28a5becd67abef.jpeg",
+    "static/media/graphicsDesigning.png": "/yrfilmproduction/static/media/graphicsDesigning.a907c93d4af6f85be5af.png",
+    "static/media/adFillm.png": "/yrfilmproduction/static/media/adFillm.b6602d2b1fce93a13f12.png",
+    "static/media/telecasting.png": "/yrfilmproduction/static/media/telecasting.9f8b3eb773cd7b4f38b0.png",
+    "static/media/vfxDesigning.png": "/yrfilmproduction/static/media/vfxDesigning.f6720ae12a7d322c62d3.png",
+    "static/media/videography.png": "/yrfilmproduction/static/media/videography.8bebb71abfaa6d97d5a4.png",
+    "index.html": "/yrfilmproduction/index.html",
+    "main.18f0c9d1.css.map": "/yrfilmproduction/static/css/main.18f0c9d1.css.map",
+    "main.0f79e4f4.js.map": "/yrfilmproduction/static/js/main.0f79e4f4.js.map",
+    "488.6a6e0adc.chunk.js.map": "/yrfilmproduction/static/js/488.6a6e0adc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18f0c9d1.css",
+    "static/js/main.0f79e4f4.js"
+  ]
+}
