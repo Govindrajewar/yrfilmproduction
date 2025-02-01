@@ -1,5 +1,5 @@
 import React from "react";
-import "../stye/HomePage/Posters.css";
+import "../style/HomePage/Posters.css";
 import horpal from "../assets/poster/horpal.jpg";
 import paisa_paisa from "../assets/poster/paisa_paisa.jpg";
 
