@@ -1,13 +1,13 @@
 .AboutUs {
   display: flex;
   flex-direction: row;
-  height: 40vh;
-  width: 100vw;
+  align-items: center;
+  background-color: aquamarine;
+  padding: 20px 0;
 }
 
-.details {
+.AboutUs .details {
   width: 50vw;
-  height: 30vh;
   display: flex;
   flex-direction: column;
   align-items: start;
@@ -15,7 +15,7 @@
   text-align: start;
 }
 
-.details h4 {
+.AboutUs .details h4 {
   width: fit-content;
   margin-top: 20px;
   padding: 10px 15px;
@@ -24,7 +24,7 @@
   color: #fff;
 }
 
-.details .contact-us-btn {
+.AboutUs .details .contact-us-btn {
   padding: 10px;
   background-color: transparent;
   border: 1px solid black;
@@ -32,15 +32,13 @@
   cursor: pointer;
 }
 
-
-.details .contact-us-btn:hover{
-    background-color: orangered;
-    color: #fff;
-    cursor: pointer;
-
+.AboutUs .details .contact-us-btn:hover {
+  background-color: orangered;
+  color: #fff;
+  cursor: pointer;
 }
 
-.aboutUs-img {
+.AboutUs .aboutUs-img {
   width: 50vw;
-  height: 30vh;
+  height: 50vh;
 }

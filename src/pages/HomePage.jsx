@@ -1,6 +1,7 @@
 import React from "react";
 import Posters from "../components/Posters";
 import AboutUs from "../components/AboutUs";
+import Projects from "../components/Projects";
 
 function HomePage() {
   return (
@@ -8,6 +9,7 @@ function HomePage() {
       YR FILM PRODUCTION
       <Posters />
       <AboutUs />
+      <Projects />
     </div>
   );
 }
