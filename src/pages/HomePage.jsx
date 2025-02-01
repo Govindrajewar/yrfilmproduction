@@ -35,8 +35,8 @@ function HomePage() {
 
   return (
     <div className="HomePage">
-      <NavBar/>
-      {/* <Posters />
+      <NavBar />
+      <Posters />
       <AboutUs />
       <Projects />
       <Services />
@@ -46,7 +46,7 @@ function HomePage() {
         <button type="button" className="up-btn" onClick={scrollToTop}>
           ^
         </button>
-      )} */}
+      )}
     </div>
   );
 }
