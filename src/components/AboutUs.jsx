@@ -22,7 +22,9 @@ function AboutUs() {
           run at our editing studio. We're proud to be in your service since
           2019.
         </p>
-        <button type="button" className="contact-us-btn">Contact Us</button>
+        <button type="button" className="contact-us-btn">
+          Contact Us
+        </button>
       </div>
       <div className="aboutUs-img">
         <img
