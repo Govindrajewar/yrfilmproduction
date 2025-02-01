@@ -1,0 +1,19 @@
+.up-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 50%;
+  background-color: orangered;
+  color: white;
+  border: 1px solid transparent;
+  transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out,
+    border 0.3s ease-in-out;
+}
+
+.up-btn:hover {
+  background-color: #fff;
+  color: orangered;
+  border: 1px solid orangered;
+}
