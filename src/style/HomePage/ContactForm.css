@@ -1,6 +1,6 @@
 .ContactForm {
   background-color: #4c4c50;
-  width: 100vw;
+  width: 100%;
   padding-bottom: 20px;
 }
 
@@ -49,7 +49,7 @@
 
 .form-group textarea {
   resize: vertical;
-  min-height: 100px;
+  min-height: 150px;
   width: 80%;
 }
 

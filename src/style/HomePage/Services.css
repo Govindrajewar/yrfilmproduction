@@ -1,7 +1,6 @@
 .Services {
   display: flex;
   flex-direction: column;
-  background-color: #f9f9f9;
 }
 
 .services-header {
@@ -13,17 +12,16 @@
 .services-heading {
   color: #fff;
   background-color: orangered;
-  border: 1px solid black;
   width: fit-content;
   padding: 10px 15px;
 }
 
-.service-title:hover {
+.service-card:hover {
   color: orangered;
 }
 
 .services-description {
-  width: 60vw;
+  width: 35vw;
 }
 
 .services-grid {
@@ -31,7 +29,6 @@
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 20px;
   padding: 20px;
-  background-color: #f9f9f9;
 }
 
 .service-card {

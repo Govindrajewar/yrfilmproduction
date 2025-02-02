@@ -26,7 +26,7 @@ const NavBar = () => {
           <img
             src={yrFilmProductionLogo}
             alt="yrFilmProductionLogo"
-            style={{ height: "50px", mixBlendMode: "color-burn" }}
+            style={{ height: "50px" }}
           />
         </div>
 
@@ -35,16 +35,16 @@ const NavBar = () => {
             <a href="/">Home</a>
           </li>
           <li>
-            <a href="/about">About Us</a>
+            <a href="#about">About Us</a>
           </li>
           <li>
-            <a href="/services">Services</a>
+            <a href="#services">Services</a>
           </li>
           <li>
-            <a href="/shorts">Shorts</a>
+            <a href="#shorts">Shorts</a>
           </li>
           <li>
-            <a href="/contact">Contact Us</a>
+            <a href="#contact">Contact Us</a>
           </li>
         </ul>
 

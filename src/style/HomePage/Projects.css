@@ -1,32 +1,37 @@
 .Projects {
   display: flex;
   flex-direction: row;
-  height: 40vh;
-  width: 100vw;
-  background-color: burlywood;
+  height: 50vh;
+  width: 100%;
+  background-color: #4c4c50;
   justify-content: center;
   align-items: center;
-  margin: 20px 0 ;
-  padding: 20px 0;
 }
 
 .Projects .details {
-  width: 30vw;
-  height: 30vh;
+  width: 50vw;
   display: flex;
   flex-direction: column;
   text-align: start;
+  align-items: start;
+  padding-left: 10vw;
 }
 
 .Projects .details h4 {
-  width: fit-content;
   padding: 10px 15px;
   border: 1px solid orangered;
   background-color: orangered;
   color: #fff;
 }
 
+.Projects .details h1 {
+  width: 50%;
+}
+
 .projects-img {
   width: 50vw;
-  /* height: 30vh; */
+}
+
+.projects-img img {
+  width: 70%;
 }

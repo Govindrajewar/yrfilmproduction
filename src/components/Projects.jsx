@@ -9,7 +9,7 @@ function Projects() {
         <img
           src={sample1}
           alt="about Us"
-          style={{ height: "100%", width: "40vw" }}
+          // style={{ height: "50%", width: "40vw" }}
         />
       </div>
       <div className="details">
