@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/yrfilmproduction/static/css/main.e62bcf6a.css",
-    "main.js": "/yrfilmproduction/static/js/main.cdf2f37d.js",
+    "main.js": "/yrfilmproduction/static/js/main.bc041c42.js",
     "static/js/488.6a6e0adc.chunk.js": "/yrfilmproduction/static/js/488.6a6e0adc.chunk.js",
     "static/media/paisa_paisa.jpg": "/yrfilmproduction/static/media/paisa_paisa.6875d2bd3357917322f8.jpg",
     "static/media/horpal.jpg": "/yrfilmproduction/static/media/horpal.da83e155ef60458adc73.jpg",
@@ -18,11 +18,11 @@
     "static/media/videography.png": "/yrfilmproduction/static/media/videography.8bebb71abfaa6d97d5a4.png",
     "index.html": "/yrfilmproduction/index.html",
     "main.e62bcf6a.css.map": "/yrfilmproduction/static/css/main.e62bcf6a.css.map",
-    "main.cdf2f37d.js.map": "/yrfilmproduction/static/js/main.cdf2f37d.js.map",
+    "main.bc041c42.js.map": "/yrfilmproduction/static/js/main.bc041c42.js.map",
     "488.6a6e0adc.chunk.js.map": "/yrfilmproduction/static/js/488.6a6e0adc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e62bcf6a.css",
-    "static/js/main.cdf2f37d.js"
+    "static/js/main.bc041c42.js"
   ]
 }
